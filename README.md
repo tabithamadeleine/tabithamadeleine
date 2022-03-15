@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tabithamadeleine
-- 👀 I’m interested in all things data!
-- 🌱 I’m currently studying advanced mathematics and computer science at university, working towards a BSc with a Specialisation of Data Science.
+- 👋 Hi, I’m Tabbi
+- 🌱 Studying to become a Data Scientist
+- 💻 Risk and Compliance professional
 - 📫 Reach me on LinkedIn /tabithamadeleine
 
 <!---
